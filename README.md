@@ -26,5 +26,3 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
   </div>
 </div>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<b>Comit History:</b>
